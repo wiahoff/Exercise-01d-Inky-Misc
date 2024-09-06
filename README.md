@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# William Hoffman
 
-# Your Github username
+# wiahoff
